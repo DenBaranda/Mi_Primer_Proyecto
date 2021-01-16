@@ -1,0 +1,9 @@
+
+Pienso que se puede abrir de incognito por que el repositorio lo colocamos como publico sin en cambio en el segundo repositorio no se puede por que lo colocamos en privado.
+
+No se si tendria algo que ver que estemos entrando con una pagina en modo incognito y sea tambien una razon para que el repositorio privado no nos deje visualizar y nos mande un error.
+
+son mis principales ideas.
+
+
+
